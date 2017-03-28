@@ -1,0 +1,21 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DirectMessenger\DirectMessenger\bin\Debug\DirectMessenger.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DirectMessenger\DirectMessenger\bin\Debug\DirectMessenger.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DirectMessenger\DirectMessenger\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DirectMessenger\DirectMessenger\bin\Debug\Assembly-CSharp.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DirectMessenger\DirectMessenger\bin\Debug\Rocket.API.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DirectMessenger\DirectMessenger\bin\Debug\Rocket.Core.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DirectMessenger\DirectMessenger\bin\Debug\Rocket.Unturned.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DirectMessenger\DirectMessenger\bin\Debug\UnityEngine.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DirectMessenger\DirectMessenger\obj\Debug\DirectMessenger.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DirectMessenger\DirectMessenger\obj\Debug\DirectMessenger.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DirectMessenger\DirectMessenger\obj\Debug\DirectMessenger.pdb
+D:\MY_PLUGINS\FINISHED\DirectMsngr\1.2 beta\PrivateMessages\DirectMessenger\bin\Debug\PrivateMessages.dll
+D:\MY_PLUGINS\FINISHED\DirectMsngr\1.2 beta\PrivateMessages\DirectMessenger\bin\Debug\PrivateMessages.pdb
+D:\MY_PLUGINS\FINISHED\DirectMsngr\1.2 beta\PrivateMessages\DirectMessenger\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\MY_PLUGINS\FINISHED\DirectMsngr\1.2 beta\PrivateMessages\DirectMessenger\bin\Debug\Assembly-CSharp.dll
+D:\MY_PLUGINS\FINISHED\DirectMsngr\1.2 beta\PrivateMessages\DirectMessenger\bin\Debug\Rocket.API.dll
+D:\MY_PLUGINS\FINISHED\DirectMsngr\1.2 beta\PrivateMessages\DirectMessenger\bin\Debug\Rocket.Core.dll
+D:\MY_PLUGINS\FINISHED\DirectMsngr\1.2 beta\PrivateMessages\DirectMessenger\bin\Debug\Rocket.Unturned.dll
+D:\MY_PLUGINS\FINISHED\DirectMsngr\1.2 beta\PrivateMessages\DirectMessenger\bin\Debug\UnityEngine.dll
+D:\MY_PLUGINS\FINISHED\DirectMsngr\1.2 beta\PrivateMessages\DirectMessenger\obj\Debug\PrivateMessages.dll
+D:\MY_PLUGINS\FINISHED\DirectMsngr\1.2 beta\PrivateMessages\DirectMessenger\obj\Debug\PrivateMessages.pdb
